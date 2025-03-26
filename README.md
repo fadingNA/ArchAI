@@ -1,4 +1,4 @@
-🏗️ SaaS Idea: “ArchiMind” – AI Architecture Assistant for Foundational Planning
+### 🏗️ SaaS Idea: “ArchiMind” – AI Architecture Assistant for Foundational Planning
 
 🎯 Mission:
 
